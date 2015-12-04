@@ -1,10 +1,9 @@
 // ==UserScript==
 // @name        FP Auto Update
-// @namespace   123
-// @description w/e
-// @include     http://facepunch.com/showthread.php*
-// @downloadURL http://github.com/PortalGod/fpautoupdate/raw/master/FP_Auto_Update.user.js
-// @version     1.1
+// @namespace	none
+// @include     *://facepunch.com/showthread.php*
+// @downloadURL https://github.com/LUModder/fpautoupdate/raw/master/FP_Auto_Update.user.js
+// @version     1.2
 // ==/UserScript==
 
 $(function() {
